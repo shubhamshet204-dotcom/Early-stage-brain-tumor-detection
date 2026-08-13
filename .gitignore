@@ -1,0 +1,15 @@
+# Ignore datasets
+brain-tumor-classification-mri/
+opendatasets/
+kaggle.json
+
+# Ignore model saves
+*.h5
+*.keras
+
+# Ignore python caches and checkpoints
+__pycache__/
+.ipynb_checkpoints/
+.virtualenv/
+venv/
+env/
